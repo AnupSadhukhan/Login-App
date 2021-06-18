@@ -1,4 +1,4 @@
-# springboot-myApp
+# Login-App
 It is simple registration and login app with spring boot 2. 
 
 # Spring boot Features(Backend)
